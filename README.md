@@ -1,5 +1,5 @@
-# namestyles-unicode-docs
-A technical guide to Unicode stylish name generation – character mappings, safe symbols, and how tools like namestyles.net work.
+namestyles-unicode-docs
+
 ```markdown
 # Unicode Name Generator – Technical Documentation
 
@@ -212,3 +212,8 @@ Last updated: June 2026
 Maintained by namestyles-net
 
 ```
+
+---
+
+**How to use:**  
+Copy everything from the top `# Unicode Name Generator...` down to the final line. Paste it directly into your `README.md` file on GitHub. The code blocks (JavaScript functions) will render correctly, and the rest will appear as normal markdown. This version keeps only the actual code inside triple backticks – exactly as you requested.

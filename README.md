@@ -1,26 +1,25 @@
-namestyles-unicode-docs
+Unicode Name Generator – Technical Documentation
 
-```markdown
-# Unicode Name Generator – Technical Documentation
+🌐 Website: "NameStyles – Stylish Name Generator" (https://namestyles.net/)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+""License: MIT" (https://img.shields.io/badge/License-MIT-yellow.svg)" (https://opensource.org/licenses/MIT)
 
-This repository documents how **Unicode‑based stylish name generators** work – the character sets, transformation logic, platform limitations, and safe symbol lists. It serves as a free technical reference for developers, gamers, and content creators who want to understand or build their own name styling tools.
+This repository documents how Unicode-based stylish name generators work – the character sets, transformation logic, platform limitations, and safe symbol lists. It serves as a free technical reference for developers, gamers, and content creators who want to understand or build their own name styling tools.
 
-> **Live demo reference:** The techniques described here are used by [namestyles.net](https://namestyles.net/) – a free generator that converts any name into 1000+ Unicode variations instantly.
+«Live demo reference: The techniques described here are used by "namestyles.net" (https://namestyles.net/) – a free generator that converts any name into 1000+ Unicode variations instantly.»
 
 ---
 
-## 📖 Table of Contents
+📖 Table of Contents
 
-- [How Unicode Name Generation Works](#-how-unicode-name-generation-works)
-- [Character Blocks Used in Name Styling](#-character-blocks-used-in-name-styling)
-- [Safe Symbol Lists for Gaming Platforms](#-safe-symbol-lists-for-gaming-platforms)
-- [Platform Character Limits (2026)](#-platform-character-limits-2026)
-- [Example: Character Mapping Function](#-example-character-mapping-function)
-- [Glitch / Zalgo Text Generation](#-glitch--zalgo-text-generation)
-- [Real‑World Implementation Reference](#-realworld-implementation-reference)
-- [Contributing & Further Reading](#-contributing--further-reading)
+- "How Unicode Name Generation Works" (#-how-unicode-name-generation-works)
+- "Character Blocks Used in Name Styling" (#-character-blocks-used-in-name-styling)
+- "Safe Symbol Lists for Gaming Platforms" (#-safe-symbol-lists-for-gaming-platforms)
+- "Platform Character Limits (2026)" (#-platform-character-limits-2026)
+- "Example: Character Mapping Function" (#-example-character-mapping-function)
+- "Glitch / Zalgo Text Generation" (#-glitch--zalgo-text-generation)
+- "Real-World Implementation Reference" (#-realworld-implementation-reference)
+- "Contributing & Further Reading" (#-contributing--further-reading)
 
 ---
 
@@ -174,7 +173,7 @@ function toGlitch(input, intensity = 3) {
 
 🌐 Real‑World Implementation Reference
 
-The techniques described in this document are implemented in production by [namestyles.net](https://namestyles.net/)t – a free web‑based stylish name generator. The tool supports:
+The techniques described in this document are implemented in production by namestyles.net – a free web‑based stylish name generator. The tool supports:
 
 · 1000+ Unicode style variations
 · 37 curated categories (royal, attitude, aesthetic, gaming, etc.)
@@ -205,9 +204,6 @@ External references:
 📄 License
 
 This documentation is released under the MIT License. You may use, copy, modify, and distribute it freely, provided attribution is included.
-## Live Demo
-
-🚀 Try it here: [NameStyles – Stylish Name Generator](https://namestyles.net/)
 
 ---
 
@@ -215,8 +211,3 @@ Last updated: June 2026
 Maintained by namestyles-net
 
 ```
-
----
-
-**How to use:**  
-Copy everything from the top `# Unicode Name Generator...` down to the final line. Paste it directly into your `README.md` file on GitHub. The code blocks (JavaScript functions) will render correctly, and the rest will appear as normal markdown. This version keeps only the actual code inside triple backticks – exactly as you requested.

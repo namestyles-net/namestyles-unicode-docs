@@ -174,7 +174,7 @@ function toGlitch(input, intensity = 3) {
 
 🌐 Real‑World Implementation Reference
 
-The techniques described in this document are implemented in production by namestyles.net – a free web‑based stylish name generator. The tool supports:
+The techniques described in this document are implemented in production by [namestyles.net](https://namestyles.net/)t – a free web‑based stylish name generator. The tool supports:
 
 · 1000+ Unicode style variations
 · 37 curated categories (royal, attitude, aesthetic, gaming, etc.)

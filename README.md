@@ -1,12 +1,12 @@
 Unicode Name Generator – Technical Documentation
 
-🌐 Website: "NameStyles – Stylish Name Generator" (https://namestyles.net/)
+🌐 Website: [NameStyles – Stylish Name Generator](https://namestyles.net/)
 
 ""License: MIT" (https://img.shields.io/badge/License-MIT-yellow.svg)" (https://opensource.org/licenses/MIT)
 
 This repository documents how Unicode-based stylish name generators work – the character sets, transformation logic, platform limitations, and safe symbol lists. It serves as a free technical reference for developers, gamers, and content creators who want to understand or build their own name styling tools.
 
-«Live demo reference: The techniques described here are used by "namestyles.net" (https://namestyles.net/) – a free generator that converts any name into 1000+ Unicode variations instantly.»
+«Live demo reference: The techniques described here are used by [namestyles.net](https://namestyles.net/) – a free generator that converts any name into 1000+ Unicode variations instantly.»
 
 ---
 

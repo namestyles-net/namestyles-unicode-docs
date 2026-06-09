@@ -205,6 +205,9 @@ External references:
 📄 License
 
 This documentation is released under the MIT License. You may use, copy, modify, and distribute it freely, provided attribution is included.
+## Live Demo
+
+🚀 Try it here: [NameStyles – Stylish Name Generator](https://namestyles.net/)
 
 ---
 
